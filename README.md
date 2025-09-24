@@ -4,9 +4,8 @@ my trial project from fourlanes
 ## Steps to run.
 * download the code as a zip from the repository
 * extract the file and open the extracted file.
-* right click on the fourlanes_trial folder and open with terminal.
-* to avoid errors it'd be better to delete the enc folder in the directory which is the virtual environment I created.
-* now on the terminal, we create our new virtual environment: python -m venv env
+* right click on the Wagtail folder and open with terminal.
+* now on the terminal, we create our virtual environment with the prompt: python -m venv env
 * then we activate it with the prompt .\env\Scripts\activate
 * now we install packages that we need, first; pip install django, then; pip install wagtail
 * we now change directory with the prompt; cd fourlanes_trial
